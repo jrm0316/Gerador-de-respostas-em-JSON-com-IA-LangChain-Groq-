@@ -1,4 +1,4 @@
-# Gerador-de-respostas-estruturadas-com-IA-Langchain-Groq
+# Gerador de Respostas em JSON com IA (LangChain + Groq)
 
 Propósito do projeto
 - Este projeto demonstra como utilizar Inteligência Artificial de forma controlada e previsível, forçando o modelo de linguagem a responder exclusivamente em formato JSON, simulando o comportamento de uma API inteligente.
