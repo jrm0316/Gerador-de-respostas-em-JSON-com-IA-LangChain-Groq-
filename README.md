@@ -53,7 +53,7 @@ Como executar o projeto
 
   1.) Clone o repositório:
 
-      git clone https://github.com/seu-usuario/Gerador-de-respostas-estruturadas-com-IA-Langchain-Groq
+      git clone https://github.com/jrm0316/Gerador-de-respostas-em-JSON-com-IA-LangChain-Groq-/edit/main/README.md
 
   2.) Instale as dependências:
 
