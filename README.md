@@ -89,3 +89,6 @@ Esse padrão é amplamente utilizado em APIs inteligentes, agentes, RAGs e autom
 Resumo profissional
 - Projeto em Python utilizando LangChain e Groq para gerar respostas estruturadas em JSON, aplicando técnicas de Prompt Engineering para controle de saída de modelos de linguagem.
 - O sistema simula uma API semântica, retornando dados organizados e prontos para integração com aplicações backend.
+
+Autor  
+  Desenvolvido por Juliano Rodrigues Madeira
